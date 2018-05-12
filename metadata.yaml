@@ -1,0 +1,35 @@
+_repo: Histoire-parlementaire-de-France-Volume-IIIRecueil-complet-des-discours-prononc-s-dans-les-ch__43308
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43308-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guisot, M. (François)
+    - Guizot, M. (François)
+    - Guizot, Francois Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2013-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43308'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History -- Restoration, 1814-1830'
+title: "Histoire parlementaire de France, Volume 3.\r\nRecueil complet des discours\
+  \ prononcés dans les chambres de 1819 à 1848"
+url: http://www.gutenberg.org/ebooks/43308
