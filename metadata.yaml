@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43308#Histoire-parlementaire-de-France-Volume-IIIRecueil-complet-des-discours-prononc-s-dans-les-ch_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
